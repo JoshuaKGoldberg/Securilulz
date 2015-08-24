@@ -12,7 +12,7 @@ There's no need to pay for commercial products if everything you need comes with
 
  * **End-users** (non-coders): 
   * From the [releases](https://github.com/JoshuaKGoldberg/Securilulz/releases) page, download the newest (highest numbered) .zip and extract it onto your computer.
-  * Open WebcamRecorder.exe.config (it's just a plain text file) in a text editor (Notepad if you're on Windows), and change the "OutputDirectory" section to match a path on your computer.
+  * Open Securilulz.exe.config (it's just a plain text file) in a text editor (Notepad if you're on Windows), and change the "OutputDirectory" section to match a path on your computer.
  * **Developers**:
   * Open the solution in Visual Studio 2015.
   * Change app.config to point to your desired output directory.
