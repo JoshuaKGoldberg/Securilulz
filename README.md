@@ -5,7 +5,7 @@ A simple console app to constantly upload video from your webcam to OneDrive
 
 ### Why?
 
-There's no need to pay for commercial software and cameras if everything you need comes with your laptop.
+There's no need to pay for commercial products if everything you need comes with your laptop.
 
 
 ### How?
